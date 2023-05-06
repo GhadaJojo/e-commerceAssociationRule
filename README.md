@@ -1,4 +1,5 @@
-# e-commerceAssociationRule
+# Ghada's Portfolio
+# [e-commerceAssociationRule](https://github.com/GhadaJojo/e-commerceAssociationRule)
 Using association rule mining to identify which items are frequently purchased together by customers.
 Project idea: Using association rule mining to identify which items are frequently purchased together by customers. Analyzing the results and identifying potential cross-selling opportunities for the company. 
 
